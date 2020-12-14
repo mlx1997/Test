@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6349f8f-88f2-439b-85fc-3bfdcdef1335" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Mybatis Mapper" />
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jEQ7NFBNa5TGDVprsOosMofysz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/b2c-order/src/main/java/com/mr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/b2c-order/src/main/java/com/mr/mapper" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="15" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1910 6\mycode\b2c\b2c-order\src\main\java\com\mr\mapper" />
+      <recent name="D:\1910 6\mycode\b2c\b2c-order\src\main\java\com\mr" />
+      <recent name="D:\1910 6\mycode\b2c\b2c-cart\src\main\java\com\mr" />
+      <recent name="D:\1910 6\mycode\b2c\b2c-item\b2c-item-interface\src\main\java\com\mr\reponsitory" />
+      <recent name="D:\1910 6\mycode\b2c\b2c-goods-page\src\main\java\com\mr" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mr.config" />
+      <recent name="com.mr.bo" />
+      <recent name="com.mr.api" />
+      <recent name="com.mr.service.impl" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mr.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.UserController">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.AuthApplication" />
+      <module name="b2c-auth-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrandController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.web.BrandController" />
+      <module name="b2c-item-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.CartApplication" />
+      <module name="b2c-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.service.CartService" />
+      <module name="b2c-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.GatewayApplication" />
+      <module name="b2c-api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.ItemApplication" />
+      <module name="b2c-item-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.OrderApplication" />
+      <module name="b2c-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.service.OrderService" />
+      <module name="b2c-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.RegistryApplication" />
+      <module name="b2c-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.UserApplication" />
+      <module name="b2c-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.controller.UserController" />
+      <module name="b2c-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.CartService" />
+      <item itemvalue="应用程序.OrderApplication" />
+      <item itemvalue="应用程序.RegistryApplication" />
+      <item itemvalue="应用程序.ItemApplication" />
+      <item itemvalue="应用程序.UserApplication" />
+      <item itemvalue="应用程序.AuthApplication" />
+      <item itemvalue="应用程序.CartApplication" />
+      <item itemvalue="应用程序.GatewayApplication" />
+      <item itemvalue="应用程序.OrderService" />
+      <item itemvalue="应用程序.BrandController" />
+      <item itemvalue="应用程序.UserController" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.UserController" />
+        <item itemvalue="应用程序.BrandController" />
+        <item itemvalue="应用程序.GatewayApplication" />
+        <item itemvalue="应用程序.OrderApplication" />
+        <item itemvalue="应用程序.ItemApplication" />
+        <item itemvalue="应用程序.OrderService" />
+        <item itemvalue="应用程序.CartApplication" />
+        <item itemvalue="应用程序.AuthApplication" />
+        <item itemvalue="应用程序.UserApplication" />
+        <item itemvalue="应用程序.RegistryApplication" />
+        <item itemvalue="应用程序.CartService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6349f8f-88f2-439b-85fc-3bfdcdef1335" name="默认更改列表" comment="" />
+      <created>1603366604489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603366604489</updated>
+      <workItem from="1603366605591" duration="4833000" />
+      <workItem from="1603416771347" duration="25313000" />
+      <workItem from="1603510738871" duration="8926000" />
+      <workItem from="1603681657516" duration="3234000" />
+      <workItem from="1603693019424" duration="10776000" />
+      <workItem from="1603764017240" duration="3015000" />
+      <workItem from="1603782457013" duration="2885000" />
+      <workItem from="1603806620073" duration="717000" />
+      <workItem from="1603848875190" duration="10436000" />
+      <workItem from="1603935593261" duration="3175000" />
+      <workItem from="1603951207267" duration="8090000" />
+      <workItem from="1604039548179" duration="5530000" />
+      <workItem from="1604061392145" duration="2707000" />
+      <workItem from="1604115662176" duration="3084000" />
+      <workItem from="1604286174420" duration="20757000" />
+      <workItem from="1604361664339" duration="26293000" />
+      <workItem from="1604469548653" duration="2042000" />
+      <workItem from="1604471750021" duration="20700000" />
+      <workItem from="1604540026340" duration="3620000" />
+      <workItem from="1604547265446" duration="24396000" />
+      <workItem from="1604620952016" duration="8488000" />
+      <workItem from="1604671648438" duration="1890000" />
+      <workItem from="1604708993413" duration="1136000" />
+      <workItem from="1604720758720" duration="680000" />
+      <workItem from="1604884869861" duration="603000" />
+      <workItem from="1604992027707" duration="652000" />
+      <workItem from="1605076006785" duration="5192000" />
+      <workItem from="1605081253621" duration="486000" />
+      <workItem from="1605081903300" duration="5096000" />
+      <workItem from="1605180555571" duration="2904000" />
+      <workItem from="1605236642718" duration="65000" />
+      <workItem from="1605325818049" duration="595000" />
+      <workItem from="1605485688858" duration="2810000" />
+      <workItem from="1605494642529" duration="1715000" />
+      <workItem from="1605506517368" duration="9001000" />
+      <workItem from="1605528528919" duration="4627000" />
+      <workItem from="1605535194714" duration="127000" />
+      <workItem from="1605535367577" duration="201000" />
+      <workItem from="1605535591114" duration="4000" />
+      <workItem from="1605576707238" duration="180000" />
+      <workItem from="1605576899178" duration="634000" />
+      <workItem from="1605577559847" duration="2270000" />
+      <workItem from="1605579860744" duration="13638000" />
+      <workItem from="1605614405088" duration="2303000" />
+      <workItem from="1605658066092" duration="16797000" />
+      <workItem from="1605748084170" duration="12734000" />
+      <workItem from="1605836652350" duration="12422000" />
+      <workItem from="1605922168123" duration="3883000" />
+      <workItem from="1605928409767" duration="3206000" />
+      <workItem from="1606095301801" duration="2306000" />
+      <workItem from="1606111519475" duration="13077000" />
+      <workItem from="1606181563348" duration="9213000" />
+      <workItem from="1606204295286" duration="1452000" />
+      <workItem from="1606284184078" duration="8000" />
+      <workItem from="1606304660793" duration="4692000" />
+      <workItem from="1606350599297" duration="7000" />
+      <workItem from="1606358685280" duration="40000" />
+      <workItem from="1606358759436" duration="24000" />
+      <workItem from="1606358810382" duration="38000" />
+      <workItem from="1606358886636" duration="24000" />
+      <workItem from="1606358954408" duration="7000" />
+      <workItem from="1606359020666" duration="139000" />
+      <workItem from="1606359267435" duration="14330000" />
+      <workItem from="1606445973535" duration="350000" />
+      <workItem from="1606446354704" duration="1197000" />
+      <workItem from="1606447568629" duration="14538000" />
+      <workItem from="1606527151192" duration="4897000" />
+      <workItem from="1606547415391" duration="5875000" />
+      <workItem from="1606699899290" duration="605000" />
+      <workItem from="1606803534546" duration="1000000" />
+      <workItem from="1606810915994" duration="11771000" />
+      <workItem from="1606878314840" duration="15819000" />
+      <workItem from="1606965684063" duration="9179000" />
+      <workItem from="1606999241078" duration="5580000" />
+      <workItem from="1607045280058" duration="24629000" />
+      <workItem from="1607129104630" duration="10071000" />
+      <workItem from="1607306631398" duration="12435000" />
+      <workItem from="1607391884875" duration="304000" />
+      <workItem from="1607418258723" duration="1508000" />
+      <workItem from="1607527043705" duration="440000" />
+      <workItem from="1607562942593" duration="1895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="185" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1604386036366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="185" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1604386036366" />
+    <state x="223" y="0" width="1089" height="834" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607054022029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="70" width="1089" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604362711444" />
+    <state x="223" y="0" width="1089" height="834" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1607054022029" />
+    <state x="574" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1607068049314">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605508434157" />
+    <state x="574" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1607068049314" />
+    <state x="497" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607053743113">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="497" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1607053743113" />
+    <state x="445" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607312882084">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="445" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1607312882084" />
+    <state x="548" y="244" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1603806947369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="244" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1536.824@0.0.1536.824" timestamp="1603806947369" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604560146525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1604560146525" />
+    <state x="498" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606372562500">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1606372562500" />
+    <state x="319" y="247" width="490" height="587" key="#xdebugger.evaluate" timestamp="1607085825740">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="319" y="245" width="488" height="579" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1604653507330" />
+    <state x="319" y="247" width="490" height="587" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1607085825740" />
+    <state x="394" y="94" key="#检查" timestamp="1606900830635">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="394" y="94" key="#检查/0.0.1536.834@0.0.1536.834" timestamp="1606900830635" />
+    <state x="559" y="77" key="#自动导入" timestamp="1606893106054">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="559" y="77" key="#自动导入/0.0.1536.834@0.0.1536.834" timestamp="1606893106054" />
+    <state x="249" y="0" key="#项目结构" timestamp="1607088126379">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1605529489689" />
+    <state x="249" y="0" key="#项目结构/0.0.1536.832@0.0.1536.832" timestamp="1606446154429" />
+    <state x="249" y="0" key="#项目结构/0.0.1536.834@0.0.1536.834" timestamp="1607088126379" />
+    <state width="851" height="470" key="DebuggerActiveHint" timestamp="1607081738634">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="477" height="464" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1604581757894" />
+    <state width="851" height="470" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1607081738634" />
+    <state x="281" y="204" key="FileChooserDialogImpl" timestamp="1605870239217">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="281" y="202" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605076413382" />
+    <state x="281" y="204" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605870239217" />
+    <state width="1491" height="247" key="GridCell.Tab.0.bottom" timestamp="1607436122698">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605517560134" />
+    <state width="1491" height="247" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1607436122698" />
+    <state width="1491" height="247" key="GridCell.Tab.0.center" timestamp="1607436122698">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605517560134" />
+    <state width="1491" height="247" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1607436122698" />
+    <state width="1491" height="247" key="GridCell.Tab.0.left" timestamp="1607436122698">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605517560134" />
+    <state width="1491" height="247" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1607436122698" />
+    <state width="1491" height="247" key="GridCell.Tab.0.right" timestamp="1607436122698">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605517560134" />
+    <state width="1491" height="247" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1607436122698" />
+    <state width="1491" height="272" key="GridCell.Tab.1.bottom" timestamp="1607090551099">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="214" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605517560134" />
+    <state width="1491" height="272" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1607090551099" />
+    <state width="1491" height="272" key="GridCell.Tab.1.center" timestamp="1607090551099">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="214" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605517560134" />
+    <state width="1491" height="272" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1607090551099" />
+    <state width="1491" height="272" key="GridCell.Tab.1.left" timestamp="1607090551099">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="214" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605517560134" />
+    <state width="1491" height="272" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1607090551099" />
+    <state width="1491" height="272" key="GridCell.Tab.1.right" timestamp="1607090551099">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="214" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605517560134" />
+    <state width="1491" height="272" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1607090551099" />
+    <state width="1478" height="258" key="GridCell.Tab.2.bottom" timestamp="1604669828722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604669828722" />
+    <state width="1478" height="258" key="GridCell.Tab.2.center" timestamp="1604669828722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1604669828722" />
+    <state width="1478" height="258" key="GridCell.Tab.2.left" timestamp="1604669828722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1604669828722" />
+    <state width="1478" height="258" key="GridCell.Tab.2.right" timestamp="1604669828722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1604669828722" />
+    <state x="372" y="7" key="SettingsEditor" timestamp="1607418338774">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605081736262" />
+    <state x="372" y="7" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1607418338774" />
+    <state x="565" y="191" key="chooseDestDirectoryDialog" timestamp="1607005199736">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="565" y="189" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605496000974" />
+    <state x="565" y="191" key="chooseDestDirectoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1607005199736" />
+    <state x="302" y="9" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606305805190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="302" y="9" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1606305805190" />
+    <state x="518" y="142" width="1350" height="648" key="dock-window-1" timestamp="1607065974123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="518" y="142" width="1350" height="648" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1607065974123" />
+    <state x="250" y="48" width="893" height="671" key="new project wizard" timestamp="1607004005545">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="413" y="44" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605325845868" />
+    <state x="250" y="48" key="new project wizard/0.0.1536.832@0.0.1536.832" timestamp="1606446171180" />
+    <state x="250" y="48" width="893" height="671" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1607004005545" />
+    <state x="545" y="229" width="600" height="554" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1606390003799">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="545" y="229" width="600" height="554" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.834@0.0.1536.834" timestamp="1606390003799" />
+    <state x="545" y="168" key="refactoring.ChangeSignatureDialog" timestamp="1604368730674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="168" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1604368730674" />
+    <state x="425" y="192" width="672" height="686" key="run.anything.popup" timestamp="1607137930967">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605487392079" />
+    <state x="425" y="192" width="672" height="686" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1607137930967" />
+    <state x="431" y="147" width="672" height="687" key="search.everywhere.popup" timestamp="1607084892008">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605180951868" />
+    <state x="431" y="147" width="672" height="687" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1607084892008" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="tk.mybatis.mapper.entity.Example" memberName="ORDERBY" />
+        <PinnedItemInfo parentTag="com.mr.reponsitory.SpuDetail" memberName="spuId" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+        <item name="b2c" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

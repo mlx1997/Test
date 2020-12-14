@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mr.JwtTokenTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.608 s <<< FAILURE! - in com.mr.JwtTokenTest
+parseToken(com.mr.JwtTokenTest)  Time elapsed: 0.423 s  <<< ERROR!
+io.jsonwebtoken.ExpiredJwtException: JWT expired at 2020-11-27T21:33:53Z. Current time: 2020-12-08T17:12:27Z, a difference of 934714504 milliseconds.  Allowed clock skew: 0 milliseconds.
+	at com.mr.JwtTokenTest.parseToken(JwtTokenTest.java:67)
+
